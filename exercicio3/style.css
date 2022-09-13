@@ -23,16 +23,24 @@ section{
 }
 
 #section-1{
+  order: 1;
 }
 
 #section-2{
+  flex-basis: 150px;
+  order: 2;
 }
 
 #section-3{
+  flex-basis: 200px;
+  order: 3;
 }
 
 #section-4{
+  flex-basis: 200px;
+  order: 4;
 }
 
 #section-5{
+  order: 0;
 }
